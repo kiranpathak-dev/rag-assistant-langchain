@@ -53,6 +53,8 @@ python qabot.py
 4. The **IBM Watsonx LLM** generates a detailed and accurate response.
 5. The **answer is displayed** in the UI.
 
+![RAG Chatbot Output](QA_bot.png)
+
 ## Components
 ### 1. Document Loader
 - Uses `PyPDFLoader` from `langchain_community.document_loaders` to extract text from PDF files.
