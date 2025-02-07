@@ -43,7 +43,7 @@ python3.11 -m pip install \
 ## Usage
 ### 🚀 Run the Application
 ```bash
-python app.py
+python qabot.py
 ```
 
 ### 📜 How It Works
